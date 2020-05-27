@@ -1,7 +1,7 @@
 ### Introduction
 This project reproduced the base model of the paper ["Context-adaptive Entropy Model for End-to-end Optimized Image Compression"](https://arxiv.org/abs/1809.10452).
 
-#####Team Name : HeySiri
+##### Team Name : HeySiri
 
 ## Installation
 
@@ -27,7 +27,7 @@ pip install tensorflow_compression
 python model.py --verbose train --train_glob="pictures/*.jpg"
 ```
 
-### compress/decompress an image
+### Compress/Decompress an image
 If you want to compress or decompress an image, the simplest way is to run test.py
 
 Or 
